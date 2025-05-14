@@ -36,14 +36,6 @@
 
 ---
 
-## 📸 Preview
-
-![Preview Screenshot](.![image](https://github.com/user-attachments/assets/3e9524ff-3239-4fdc-a1ae-ae5dcdc1cd4c)
-) <!-- Replace with actual image path or URL -->
-
-
----
-
 ## 📂 Folder Structure
 Portfolio_Prototype/
 ├── index.html
